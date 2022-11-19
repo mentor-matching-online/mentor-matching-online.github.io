@@ -47,9 +47,8 @@ footer-menu--links:
 # Asset paths #
 ###############
 # General paths
-image-path: ""
-css-path: ""
-js-path: ""
+css-path: "https://assets.mentormatching.online/styles/styles.css"
+js-path: "https://assets.mentormatching.online/scripts/scripts.js"
 
 # Favicons and social graph
 social-media-image: ""

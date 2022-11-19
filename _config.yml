@@ -90,6 +90,7 @@ collections:
 ##################
 # Build settings #
 ##################
+remote_theme: mentor-matching-online/jekyll-theme
 permalink: pretty
 markdown: kramdown
 highlighter: rouge

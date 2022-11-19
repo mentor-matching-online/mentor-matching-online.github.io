@@ -1,0 +1,116 @@
+### This file acts as the global config across the website.
+### Any variables in this file can be accessed in other files using
+###    `{{ site.variable }}`
+
+
+######################
+# Site configuration #
+######################
+# This title will display across the website
+title: "Mentor Matching Online"
+# This description is predominantly for Search Engine Optimisation
+description: "Mentor Matching Online makes it easy to match mentees and mentors as part of a structured mentoring programme."
+# Instead of "author", have the organisation name as the default
+author: "John Peart and Jonathan Kerr"
+organisation: "Mentor Matching Online"
+email: "info@mentormatching.online"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.mentormatching.online"
+
+###################
+# Header settings #
+###################
+header-menu--links--hidden: true
+# Header menu links
+header-menu--links:
+  - display-text: "Home"
+    alt-text: "Visit the home page"
+    url: "/"
+    hidden: false
+
+###################
+# Footer settings #
+###################
+# This text will be displayed at the bottom of the website.
+footer--production-notice: "Site created by <a href='https://www.johnpe.art/' class='link--inverse'>John Peart</a>."
+#footer--copyright-notice: ""
+
+# Footer menu links
+footer-menu--links:
+  - display-text: "About"
+    alt-text: "Learn more about us"
+    url: "/about"
+    hidden: true
+
+###############
+# Asset paths #
+###############
+# General paths
+image-path: ""
+css-path: ""
+js-path: ""
+
+# Favicons and social graph
+social-media-image: ""
+favicon: ""
+favicon-svg: ""
+favicon-pinned-svg: ""
+favicon-large-png: ""
+theme-colour: ""
+
+
+
+##################################
+# Analytics and domain ownership #
+##################################
+# Google settings
+google-site-verification: ""
+
+###############
+# Collections #
+###############
+#This is the default permalink for the "_posts" folder.
+permalink: /:year/:month/:day/:title:output_ext
+
+collections:
+    components:
+        output: true
+        permalink: /components/:path/
+        defaults:
+            values:
+                layout: design-system
+    styles:
+        output: true
+        permalink: /styles/:path/
+        defaults:
+            values:
+                layout: design-system
+                
+##################
+# Build settings #
+##################
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+
+plugins:
+- jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-redirect-from
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

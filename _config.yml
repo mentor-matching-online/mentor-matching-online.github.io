@@ -33,7 +33,7 @@ header-menu--links:
 # Footer settings #
 ###################
 # This text will be displayed at the bottom of the website.
-footer--production-notice: "Site created by <a href='https://www.johnpe.art/' class='link--inverse'>John Peart</a>."
+footer--production-notice: "Site created by <a href='https://www.johnpe.art/'>John Peart</a>."
 #footer--copyright-notice: ""
 
 # Footer menu links

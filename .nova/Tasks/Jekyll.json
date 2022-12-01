@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "bundle install\nbundle update\nbundle install\nbundle exec jekyll build"
+      "script" : "bundle install\nbundle update\nbundle install\nJEKYLL_ENV=production bundle exec jekyll build"
     },
     "clean" : {
       "enabled" : true,
@@ -10,7 +10,7 @@
     },
     "run" : {
       "enabled" : true,
-      "script" : "bundle exec jekyll serve --liveReload"
+      "script" : "JEKYLL_ENV=production bundle exec jekyll serve --liveReload"
     }
   },
   "openLogOnRun" : "start"

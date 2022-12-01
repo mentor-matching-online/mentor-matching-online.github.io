@@ -1,5 +1,7 @@
 ---
-title: Mentor Matching Online
 layout: home
-excerpt: "Mentor Matching Online makes it easy to match mentees and mentors as part of a structured mentoring programme."
+title: Mentoring made easy
+excerpt: Design and deliver your own mentoring programme, at scale, using these step-by-step guides, and resources and templates.
+
+heading: Step-by-step guides
 ---

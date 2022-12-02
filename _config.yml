@@ -21,31 +21,39 @@ url: "https://www.mentormatching.online"
 ###################
 # Header settings #
 ###################
-header-menu--links--hidden: true
-# Header menu links
-header-menu--links:
-  - display-text: "Home"
-    alt-text: "Visit the home page"
-    url: "/"
-    hidden: false
+header-menu--links--hidden: false
+
 
 ###################
 # Footer settings #
 ###################
 # This text will be displayed at the bottom of the website.
-footer--production-notice: "Site created by <a href='https://www.johnpe.art/'>John Peart</a>."
+footer--production-notice: "Site created by <a href='https://www.johnpe.art/' class='link--inverse'>John Peart</a>."
 #footer--copyright-notice: ""
 
-# Footer menu links
-footer-menu--links:
-  - display-text: "Mentor matching software"
+##############
+# Menu links #
+##############
+# Menu links
+links:
+  - display-text: "Home"
+    alt-text: "Visit the home page"
+    url: "/"
+    header: true
+    footer: false
+    sidebar: false
+  - display-text: "Matching software"
     alt-text: "Use the mentor matching software"
-    url: "/404"
-    hidden: false
+    url: "https://service.mentormatching.online/"
+    header: false
+    footer: true
+    sidebar: true
   - display-text: "About"
-    alt-text: "Learn more about us"
+    alt-text: "Find out more about this project"
     url: "/about"
-    hidden: false
+    header: true
+    footer: true
+    sidebar: false
 
 ###############
 # Asset paths #

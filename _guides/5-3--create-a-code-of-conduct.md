@@ -2,6 +2,7 @@
 layout: post
 title: "Create a code of conduct"
 excerpt: "description"
-order: 5.3
+step: 5.3
+order: 11
 ---
 

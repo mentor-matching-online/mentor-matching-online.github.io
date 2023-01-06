@@ -2,6 +2,7 @@
 layout: post
 title: "Create a logic model"
 excerpt: "description"
-order: 3.1
+step: 3.1
+order: 6
 ---
 

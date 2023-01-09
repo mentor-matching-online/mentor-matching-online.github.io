@@ -3,6 +3,6 @@ layout: post
 title: "Monitor and clean the data"
 excerpt: "description"
 step: 7.3
-order: 19
+order: 20
 ---
 

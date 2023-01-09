@@ -13,7 +13,11 @@ Your mentoring programme is more likely to succeed if you understand both:
 
 Having a clear evidence base will mean you can better structure your programme, and making sure your intervention has the biggest impact. It might also help you to design robust evaluation for the programme, by informing [your logic model]({% link _guides/3-1--create-a-logic-model.md %}). 
 
-Gather and review any evidence you might have before you start to design the programme.
+Gather and review any evidence you might have before you start to design the programme. Analysing your evidence base could help you to understand:
+
+1. whether you should create a mentoring programme or a different kind of programme
+2. what type of mentoring programme to create
+3. who your programme should be targeted at
 
 ## Kinds of evidence you could use
 

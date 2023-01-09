@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design your programme"
-excerpt: "Decide the purpose and structure of your mentoring programme."
+excerpt: "What do you want your mentoring programme to look and feel like?"
 step: 2
 order: 2
 ---

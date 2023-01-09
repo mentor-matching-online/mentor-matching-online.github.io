@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review your existing evidence"
-excerpt: "Good mentoring programmes are built on evidence."
+excerpt: "What evidence do you have that you need a mentoring programme, and what problems are you trying to fix with it?"
 step: 2.1
 order: 3
 ---

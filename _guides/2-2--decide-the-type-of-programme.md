@@ -8,7 +8,7 @@ order: 4
 
 Completing a [review of your evidence base]({% link _guides/2-1--review-your-existing-evidence.md %}) means you can take an informed decision about the type of programme you want to create.
 
-Part of designing your programme is considering the relationship you want to create between participants, and the nature of those interactions they have.
+Part of designing your programme is considering the relationship you want to create between participants, and the nature of those interactions they have. You should do this in parallel with deciding [who is eligible for your programme]({% link _guides/2-3--decide-who-is-eligible.md %}).
 
 ## Mentoring relationships
 

@@ -17,13 +17,15 @@ You should do this in parallel with deciding [what type of programme you want to
 
 ## Considerations for mentees
 
-Mentees will be the primary beneficiaries of your programme.
+Mentees will be the primary beneficiaries of your programme. 
+
+Generally, you will have more mentees on your programme than you will mentors. You will need to consider how to you will maximise the number of successful matching outcomes created by the programme. This might mean limiting the programme only to certain subsets of participants.
 
 ## Considerations for mentors
 
 Mentors are the benefactors of your programme. They are volunteering a potentially significant amount of their own time to support mentees on your programme. 
 
-Generally you will need to consider whether your pool of mentors is sufficiently large, skilled and time-rich. You will also need to consider what differentiates your mentors from your mentees.
+Generally, you will need to consider whether your pool of mentors is sufficiently large, skilled and time-rich. You will also need to consider what differentiates your mentors from your mentees.
 
 ### Traditional mentoring programmes 
 
@@ -41,16 +43,8 @@ For reverse mentoring programmes, you are likely trying to match junior staff to
 
 When deciding who is eligible, you will need to consider whether your eligibility requirements enable a big enough pool of mentors to ensure all your mentees get a match.
 
-If your reverse mentoring programme 
-
-
-
- there are enough mentors to draw from?
-- the prospective mentors are likely to have the skills and expertise to undertake their role
-- the prospective mentors are likely to have the time to properly support mentees
-
-### 
-You will also need to consider the relative seniority of your mentors compared to your mentees. 
+{:.warning-text}
+> Remember, the tools and guidance on this website assume that you are looking to create a traditional mentoring programme.
 
 > ## Case study
 > ### Civil Service LGBT+ mentoring programme
@@ -69,3 +63,9 @@ You will also need to consider the relative seniority of your mentors compared t
 > The programme was only open to employees in the Civil Service to ensure that mentors and mentees could discuss issues openly, and to avoid conflicts with any HR policies in relation to contractor staff.
 > 
 > The programme was intentionally limited to LGBT+ staff. "Allies" were not able to register as a mentor or mentee. The programme made this decision of [the evidence base that identified](/guide/2-1-review-your-existing-evidence/#case-study): it was intended to not only provide a development opportunity but also to increase the visibility of senior LGBT+ staff.
+> 
+> In each of the first two years of operation, this programme had around 450 mentees, and around 350 mentors taking part.
+> 
+> 
+> 
+> At this scale every mentee received at least 1 speed mentoring match, and many received 2 or 3 matches. More than 95% of the mentors that joined the programme were matched successfully.

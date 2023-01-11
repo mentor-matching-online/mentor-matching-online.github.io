@@ -23,11 +23,29 @@ Mentees will be the primary beneficiaries of your programme.
 
 Mentors are the benefactors of your programme. They are volunteering a potentially significant amount of their own time to support mentees on your programme. 
 
-When deciding what kinds of mentors you want on your programme, you will need to consider:
+Generally you will need to consider whether your pool of mentors is sufficiently large, skilled and time-rich. You will also need to consider what differentiates your mentors from your mentees.
 
-### How many mentors do you need?
+### Traditional mentoring programmes 
 
-Are there are enough mentors to draw from?
+For traditional mentoring programmes, you will generally be drawing from a pool of relatively more-senior, more-experienced mentors. 
+
+You will need to consider how much more senior your mentors will be when compared to mentees. A mentor that is too senior compared to their mentee might be too far removed from the reality of the mentee’s situation to be genuinely helpful. A mentor that is not senior enough won’t necessarily be able to help your mentor develop the skills, knowledge or experience they might be looking to develop.
+
+Most prospective mentors will have the experience they need to act as a helpful mentor. Many mentors may not have prior experience of mentoring or the skills to be an effective mentor though. This shouldn’t necessarily be an inhibitor to including them in your programme; you can help them to address this through [induction and training], and [guidance].
+
+You will also need to consider whether your eligibility requirements enable a big enough pool of mentors to ensure all your mentees get a match. If your pool isn’t large enough, or you don’t know it will be large enough, you will need to consider how you communicate the risk of an unsuccessful match to your mentees.
+
+### Reverse mentoring
+
+For reverse mentoring programmes, you are likely trying to match junior staff to a relatively small pool of senior staff. 
+
+When deciding who is eligible, you will need to consider whether your eligibility requirements enable a big enough pool of mentors to ensure all your mentees get a match.
+
+If your reverse mentoring programme 
+
+
+
+ there are enough mentors to draw from?
 - the prospective mentors are likely to have the skills and expertise to undertake their role
 - the prospective mentors are likely to have the time to properly support mentees
 

@@ -21,11 +21,7 @@ A good logic model can help you to:
 
 ### What logic modelling isn't good for
 
-Logic model is helpful for describing what you are doing and what you are expecting to happen; it's can't help you see *why*  it is happening. 
-
-On its own, logic modelling can't help you to understand whether you are making the *right* interventions as part of your programme. 
-
-Logic models are also intentionally simplistic. Many things could influence the outcomes experience on your programme.
+Logic model is helpful for describing what you are doing and what you are expecting to happen; it's can't help you see *why*  it is happening. On its own, logic modelling can't help you to understand whether you are making the *right* interventions as part of your programme. The models are also intentionally simplistic. Many things could influence the outcomes experienced as a result of your programme.
 
 Whilst they have limitations, logic modelling *can* help you to structure your evaluation, so that the data you gather throughout your programme delivery can demonstrate its effectiveness. Use them to structure your thinking, but validate the model with actual data throughout the delivery of your programme.
 

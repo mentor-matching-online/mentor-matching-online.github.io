@@ -49,6 +49,10 @@ Regardless of the tool you use, you might want to set up a dedicated email addre
 
 If you intend to use [surveys as part of your programme evaluation]({% link _guides/3-2--create-pre-and-post-intervention-surveys.md %}), you will need a survey tool to collect the data. Again, Microsoft Forms and Google Forms – one of which is likely provided by your employer – are suitable for this purpose, but you could use dedicated survey tools if you felt it was necessary.
 
+### General office software
+
+You are also likely to need general office software to support the delivery of your programme, like a word processor, spreadsheet tool and presentation software. Any software you want to use is probably fine.
+
 ## Costs 
 
 You may be able to rely on free-to-use digital services, or in-house solutions – particularly for small programmes. It is feasible to run an entire programme only using a commodity office product, like Microsoft 365 or Google Workspace.

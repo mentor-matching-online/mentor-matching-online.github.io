@@ -2,6 +2,7 @@
 layout: post
 title: "Open registrations"
 excerpt: "description"
-order: 7.2
+step: 7.2
+order: 19
 ---
 

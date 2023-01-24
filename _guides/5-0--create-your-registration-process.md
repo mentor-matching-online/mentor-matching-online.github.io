@@ -2,6 +2,7 @@
 layout: post
 title: "Create your registration process"
 excerpt: "description"
-order: 6
+step: 5
+order: 11
 ---
 

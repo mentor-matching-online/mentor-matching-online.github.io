@@ -2,6 +2,7 @@
 layout: post
 title: "Close registrations"
 excerpt: "description"
-order: 9
+step: 9
+order: 26
 ---
 

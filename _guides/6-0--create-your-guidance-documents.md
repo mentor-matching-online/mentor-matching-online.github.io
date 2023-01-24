@@ -2,7 +2,7 @@
 layout: post
 title: "Create your programme guidance"
 excerpt: "description"
-step: 5
+step: 6
 order: 11
 ---
 

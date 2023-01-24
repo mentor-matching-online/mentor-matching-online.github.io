@@ -14,7 +14,7 @@ You are likely to need to use some specialised software tools to deliver each st
 
 You will need a way to allow mentors and mentees to register for your programme. If you are using our matching software, you will also need a way to convert that data into a standardised data structure in CSV format.
 
-Microsoft Forms and Google Forms – one of which is likely provided by your employer – are suitable for this purpose. Our guidance on [creating registration forms]({% link _guides/6-1--build-the-registration-forms.md %}) provides an example registration form using Google Forms.
+Microsoft Forms and Google Forms – one of which is likely provided by your employer – are suitable for this purpose. Our guidance on [creating registration forms]({% link _guides/5-1--build-the-registration-forms.md %}) provides an example registration form using Google Forms.
 
 If you want to design a more complex registration process, you might want to consider dedicated software like Qualtrics, SurveyMonkey, or TypeForm. The free versions of these tools are unlikely to have all the features you need, so you should be prepared to pay for these tools if you choose to use them.
 
@@ -63,4 +63,4 @@ We provide an open-source piece of software to assist with matching mentors and 
 
 ## Data protection
 
-You will need to make your own assessment of the data protection risks involved with using any third-party software as part of your programme. You will also need to consider whether you have a legal basis to collect and process the data using these tools. These considerations will feed into the [data and privacy policy]({% link _guides/6-2--create-a-data-and-privacy-policy.md %}) for your programme.
+You will need to make your own assessment of the data protection risks involved with using any third-party software as part of your programme. You will also need to consider whether you have a legal basis to collect and process the data using these tools. These considerations will feed into the [data and privacy policy]({% link _guides/5-2--create-a-data-and-privacy-policy.md %}) for your programme.

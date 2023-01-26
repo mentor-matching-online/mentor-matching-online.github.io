@@ -17,8 +17,13 @@ This should enable you to write the guidance and prepare your induction material
 
 The guides in the rest of this section will help you to create:
 
-1. guidance materials for mentees and mentors
-2. a code of conduct for participants
-3. a short induction event for participants
+1. general guidance about your programme
+2. tailored guidance materials for mentees and mentors
+3. a code of conduct for participants
+4. a short induction event for participants
 
 Examples of each are provided for you to adapt, if you don't want to create your own from scratch.
+
+## Tailor your approach for your users
+
+The approach to guidance and induction is based on a real programme; you might find a different approach to this that works better for your use case.

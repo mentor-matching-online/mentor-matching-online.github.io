@@ -23,7 +23,7 @@ This website might be useful for you if:
 
 **We cannot help you find a mentor or a mentee directly.** This website is not intended for individuals who are looking to start a mentoring relationship directly. 
 
-If you are an individual looking to start mentoring, you might find the model guidance for [mentees]({% link _guides/6-1--create-mentee-guidance.md %}) and for [mentors]({% link _guides/6-2--create-mentor-guidance.md %}) helpful for some pointers on how to make the most of your mentoring relationship.
+If you are an individual looking to start mentoring, you might find the model guidance for [mentees]({% link _guides/6-2--create-mentee-guidance.md %}) and for [mentors]({% link _guides/6-3--create-mentor-guidance.md %}) helpful for some pointers on how to make the most of your mentoring relationship.
 
 ### It helps you to create large scale programmes
 

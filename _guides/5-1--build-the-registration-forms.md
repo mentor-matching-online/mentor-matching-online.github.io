@@ -21,22 +21,103 @@ Much of information requested below is required to enable [our matching software
 Whilst you can collect this information in any way, the data will eventually need to be provided to the software in a standardised file format with specific column headings. [Learn more about the required data formats]({% link _guides/11-0--match-mentors-to-mentees.md %}).
 
 ### First and last name
+#### Required
+
+You should capture each participant's first and last name. This enables you to:
+
+1. customise any correspondence with the participant
+2. provide complete information about the participant to their matches
+
+Our software requires that the first and last name are captured separately. 
+
+This information is not considered in the matching algorithm.
 
 ### Job title or role
+#### Optional
+
+You could capture each participant's job title or role. This enables you to provide complete information about the participant to their matches.
+
+Our software requires this field is represented in the structured data, but it could simply be left blank.
+
+This information is not considered in the matching algorithm.
 
 ### Grade (seniority)
+#### Required
+
+You must capture each participant's grade – their level of seniority within the common structures of your organisation.
+
+This information is considered in the matching algorithm.
+
+The software uses a standardised grading structure to conduct each match. The default grades, from lowest to highest, are:
+
+- AA
+- AO
+- EO
+- HEO
+- SEO
+- Grade 7
+- Grade 6
+- SCS1
+- SCS2
+- SCS3
+- SCS4
+
+It is not currently possible to customise this structure, but future iterations of the software will allow you to define your own labels for each grade within your organisation.
+
+We recommend providing a user-selectable list of grades in your registration form to enforce consistency of spelling, grammar and punctuation. Participants should only be able to pick one option.
 
 ### Profession (specialism)
+#### Required
 
-### Department or agency (organisational unit)
+You must capture each participant's profession, specialism or area of expertise. 
+
+A profession can be any string of alphanumeric characters, for example: `audit`, `tax`, `Human Resources`. 
+
+This information is considered in the matching algorithm.
+
+The software will compare whether the profession provided by a mentee is exactly the same as, or different from, the profession provided by a mentor and then determine whether or not to match those participants.
+
+We recommend providing a user-selectable list of professions to enforce consistency of spelling, grammar and punctuation. Participants should only be able to pick one option.
+
+### Organisation
+#### Required
+
+You must capture which organisation a participant works in. This could be an employer or a team within an employer. 
+
+An organisation can be any string of alphanumeric characters, for example: `Cabinet Office`, `Finance team`, `Skills and Capability directorate`. 
+
+This information is considered in the matching algorithm.
+
+The software will compare whether the organisation provided by a mentee is exactly the same as, or different from, the organisation provided by a mentor and then determine whether or not to match those participants.
+
+We recommend providing a user-selectable list of organisations to enforce consistency of spelling, grammar and punctuation. Participants should only be able to pick one option.
 
 ### Arbitrary or protected characteristics
+#### Optional
 
-### Biography
+If it is suitable for your programme, you could ask users to state a preference for a match who has a particular characteristic. The characteristic could be any characteristic set you want to use, but it was intended for matching people on the basis of a protected characteristic like ethnicity, sex or sexual orientation.
 
-### Previous mentoring experience
+This information is considered in the matching algorithm.
+
+A characteristic can be any string of alphanumeric characters, for example: `White` , `Female`, `Lesbian`, `Vegetarian`. 
+
+The software will compare whether the characteristic selected by a mentee is matches one of the characteristics provided by a mentor and then determines whether or not to match those participants.
+
+We recommend providing a user-selectable list of organisations to enforce consistency of spelling, grammar and punctuation. The software allows mentors to provide multiple characteristics – which could be facilitated with checkboxes on a form. Mentees can only select one characteristic – which could be facilitated with a dropdown list or a radio-button list.
+
+### Biographical information
+#### Optional
+
+You could ask one or more questions of participants to construct a biography that is shared with a participant's matches. 
+
+This information is not considered in the matching algorithm but it is used to generate the output files. Our software requires this field is represented in the structured data, but it could simply be left blank.
 
 ### Demographic monitoring
+#### Optional
+
+You could ask demographic questions of your participants, so you can use this as part of your evaluation and analysis of your programme.
+
+This information is not considered in the matching algorithm and is discarded. We do not recommend collecting the data if you do not intend to use it for analysis.
 
 {:.template}
 > ## Example

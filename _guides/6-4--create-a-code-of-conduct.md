@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create a code of conduct"
-excerpt: "description"
+excerpt: "How will you ensure everyone acts professionally?"
 step: 6.3
 order: 18
 ---

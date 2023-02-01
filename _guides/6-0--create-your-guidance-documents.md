@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create your programme guidance"
-excerpt: "description"
+excerpt: "How will you guide participants through the programme, from registration through to completion?"
 step: 6
 order: 14
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create general guidance for participants"
-excerpt: "description"
+excerpt: "What guidance do all of your participants need?"
 step: 6.1
 order: 15
 ---

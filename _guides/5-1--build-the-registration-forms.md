@@ -125,8 +125,6 @@ This information is not considered in the matching algorithm and is discarded. W
 > 
 > This Google Form contains a template example you could use to collect your participant data. It is linked to a Google Sheet document that outputs the data in the format required by our matching software. You can freely re-use and adapt this form and spreadsheet to suit your needs.
 
-
-
 ## Make sure you have a data and privacy policy
 
 Before you start collecting or processing any user data, make sure you have a [data and privacy policy]({% link _guides/5-2--create-a-data-and-privacy-policy.md %}) in place. The next step in our guidance covers this topic.

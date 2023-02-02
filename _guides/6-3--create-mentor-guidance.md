@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create specific guidance for mentors"
-excerpt: "description"
+excerpt: "What guidance do mentors need?"
 step: 6.3
 order: 17
 ---

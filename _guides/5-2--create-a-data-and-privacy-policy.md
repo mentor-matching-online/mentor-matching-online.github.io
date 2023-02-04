@@ -27,18 +27,25 @@ You may have an in-house data protection team in your organisation that can help
 
 ## Create a data and privacy policy
 
-You should codify how you will collect, store and manage data as part of the programme, and publish this policy alongside the other documentation you give to participants. This is sometimes referred to as a 'privacy notice' or 'privacy policy'.
+It's important to build trust with your participants, and ensure that they know what will happen throughout your programme. You should codify how you will collect, store and manage data as part of the programme, and publish this policy alongside the other documentation you give to participants. This is sometimes referred to as a 'privacy notice' or 'privacy policy'.
 
-The content of the document will be heavily influenced by the requirements of local data laws and organisational policies. The Information Commissioner's Office provides a template and guidance on what to include
+The content of the document will be heavily influenced by what kind of organisation you are, the requirements of local data laws and you organisational policies. 
 
-### Explain what you are doing with people's data
+The Information Commissioner's Office provides [guidance](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/the-right-to-be-informed/how-should-we-draft-our-privacy-information/) on what to include, and [a template suitable for small organisations](https://ico.org.uk/for-organisations/sme-web-hub/make-your-own-privacy-notice/).
 
-### Seek user agreement
+Your policy is likely to need to explain:
 
+- what information you are going to collect and hold
+- what you will do with that data and why
+- who you will share the data with
+- how long you will keep the data for
 
+UK data protection laws also requires that you identify a "[lawful basis](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/)" for collecting and processing data and that you explain this in the policy.
 
 {:.template}
 > ## Example
 > ### Data and privacy policy
 > 
 > This document contains an example of the data and privacy policy you could provide to participants. You can freely re-use and adapt this document to suit your needs.
+> 
+> This document has not been reviewed by a lawyer. You should seek your own advice on how to comply with data protection laws in your jurisdiction.

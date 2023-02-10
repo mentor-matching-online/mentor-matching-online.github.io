@@ -10,7 +10,7 @@ You should have now prepared all the essential materials to run your programme, 
 
 The guides in this section will help you to:
 
-- publicise your programme
-- manage your registration process
+1. publicise your programme
+2. manage your registration process
 
  

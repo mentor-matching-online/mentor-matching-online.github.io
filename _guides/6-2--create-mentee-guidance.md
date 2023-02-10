@@ -10,11 +10,24 @@ In addition to your [general guidance to all participants]({% link _guides/6-1--
 
 ## What you could include
 
-### What mentees are expected to do
+### What mentees are and what they expected to do
+
+You could use a guidance document to explain to potential participants what a mentee is, and what 'good' participation in the programme looks like if you are a mentee. You could also use this as an opportunity to explain the benefits of having a mentee.
 
 ### How the programme will work for mentees specifically
 
+Building on the general guidance to all participants, you could explain in more detail how your programme will work specifically from the perspective of a mentee. 
+
+What you expect them to do will depend on how you structure your programme. Our guidance assumes you are running a two-stage programme, with speed mentoring followed by long-term mentoring. If you are following this process, your guidance could explain:
+
+- the mentee's role in scheduling their speed mentoring session
+- the mentee's role in preparing for their speed mentoring session
+- how to conduct a speed mentoring session
+- what a mentee should do after the speed mentoring session
+
 ### Resources to support mentoring conversations
+
+You could also include specific resources from inside your organisation or from other, outside organisations for use in a mentoring session.
 
 ### Signposting to a code of conduct
 

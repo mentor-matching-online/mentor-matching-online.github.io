@@ -18,4 +18,5 @@ Before you start to develop the detailed elements of your programme you should c
 
 The guides in this section will provide advice on each of these programme design questions.
 
+{:.warning-text}
 > Remember that everything on this website is based on learning from a real world programme. You might need to adapt elements of the advice, tools or resources in the following sections to fit your particular circumstances.

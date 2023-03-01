@@ -25,7 +25,7 @@ If you want to design a more complex registration process, you might want to con
 {:.warning-text}
 > At the moment, you need to be able to install software on your device to use our mentor matching software. We are currently working to put our matching software online so you can use it through a web browser from any device. This may come at a small cost. We will update our guidance documents to tell you how to use the software when it is available.
 
-You do not have to use our software if you don't want to, but it can save significant time and money. It takes minutes to match hundreds of participants using our software; the equivalent task could take a person up to a week of full time manual work.
+You do not have to use our software if you don't want to, but it can save significant time and money. It takes minutes to match hundreds of participants using our software; the equivalent task could take a person up to a week of full-time, manual work.
 
 ### Email
 

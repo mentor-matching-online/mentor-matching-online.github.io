@@ -3,7 +3,7 @@ layout: post
 title: "Evaluate the programme"
 excerpt: "Wrap up the programme with a final evaluation."
 step: 15
-order: 41
+order: 43
 ---
 
 Now that your programme is complete, you could evaluate the final elements of the programme, or the programme as a whole.

@@ -3,7 +3,7 @@ layout: post
 title: "Evaluate the programme"
 excerpt: "Gather feedback after the initial speed mentoring period."
 step: 13
-order: 38
+order: 39
 ---
 
 You will have already [designed your programme evaluation]({% link _guides/3-0--design-your-programme-evaluation.md %}) and possibly [established a baseline to compare against]({% link _guides/10-0--evaluate-the-programme.md %}).

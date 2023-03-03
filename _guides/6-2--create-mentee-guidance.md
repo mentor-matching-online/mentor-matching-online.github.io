@@ -38,3 +38,5 @@ You could signpost mentees to a [code of conduct]({% link _guides/6-4--create-a-
 > ### Guidance for mentees
 > 
 > This document contains an example of the guidance you could provide to mentees participating in your programme. You can freely re-use and adapt this guidance document to suit your needs. Please note that this guidance references some third-party materials. You should provide appropriate referencing and credit to third-party sources.
+> 
+> <a href="/assets/documents/example-mentee-guidance.docx" title="Download an example 'mentee guidance' document" class="button button--no-margin">Download this example (.DOCX)</a>

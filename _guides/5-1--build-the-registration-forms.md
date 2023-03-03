@@ -124,6 +124,8 @@ This information is not considered in the matching algorithm and is discarded. W
 > ### Registration form
 > 
 > This Google Form contains a template example you could use to collect your participant data. It is linked to a Google Sheet document that outputs the data in the format required by our matching software. You can freely re-use and adapt this form and spreadsheet to suit your needs.
+> 
+> <a href="#" title="Open this example registration form on Google Drive (Opens in new window)" class="button button--no-margin" target="_blank">Open this example (Google Drive)</a>
 
 ## Make sure you have a data and privacy policy
 

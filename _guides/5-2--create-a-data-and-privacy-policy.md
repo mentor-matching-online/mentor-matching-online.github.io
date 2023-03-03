@@ -49,3 +49,5 @@ UK data protection laws also requires that you identify a "[lawful basis](https:
 > This document contains an example of the data and privacy policy you could provide to participants. You can freely re-use and adapt this document to suit your needs.
 > 
 > This document has not been reviewed by a lawyer. You should seek your own advice on how to comply with data protection laws in your jurisdiction.
+> 
+> <a href="/assets/documents/example-data-and-privacy-policy.docx" title="Download an example data and privacy policy" class="button button--no-margin">Download this example (.DOCX)</a>

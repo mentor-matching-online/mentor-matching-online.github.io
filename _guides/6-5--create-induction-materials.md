@@ -35,9 +35,13 @@ You might also want to consider including time for questions and feedback if you
 > ### Induction for mentors – slide deck
 > 
 > This document contains an example of a presentation you could give to mentors joining your programme. You can freely re-use and adapt this document to suit your needs.
+> 
+> <a href="/assets/documents/example-mentor-induction.pptx" title="Download an example 'mentor induction' slide deck" class="button button--no-margin">Download this example (.PPTX)</a>
 
 {:.template}
 > ## Example
 > ### Induction for mentees – slide deck
 > 
 > This document contains an example of a presentation you could give to mentees joining your programme. You can freely re-use and adapt this document to suit your needs.
+> 
+> <a href="/assets/documents/example-mentee-induction.pptx" title="Download an example 'mentee induction' slide deck" class="button button--no-margin">Download this example (.PPTX)</a>

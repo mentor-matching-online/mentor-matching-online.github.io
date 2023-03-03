@@ -44,7 +44,7 @@ links:
     sidebar: false
   - display-text: "Matching software"
     alt-text: "Use the mentor matching software"
-    url: "https://service.mentormatching.online/"
+    url: "https://github.com/mentor-matching-online/mentor-match"
     header: false
     footer: true
     sidebar: true

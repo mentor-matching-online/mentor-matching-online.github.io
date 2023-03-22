@@ -44,7 +44,7 @@ You could include links to wider guidance documents or resources in your general
 > 
 > This document contains an example of the general guidance you could provide to participants. You can freely re-use and adapt this guidance document to suit your needs.
 > 
-> <a href="/assets/documents/example-about-the-programme.docx" title="Download an example 'about the programme' document" class="button button--no-margin">Download this example (.DOCX)</a>
+> <a href="/documents/example-about-the-programme.docx" title="Download an example 'about the programme' document" class="button button--no-margin">Download this example (.DOCX)</a>
 
 ## Keep it simple
 

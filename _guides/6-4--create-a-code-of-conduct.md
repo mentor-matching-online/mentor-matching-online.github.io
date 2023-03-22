@@ -44,4 +44,4 @@ You could use a code of conduct to explain how someone on the programme can rais
 > 
 > This document contains an example of a code of conduct you could provide to those participating in your programme. You can freely re-use and adapt this guidance document to suit your needs.
 > 
-> <a href="/assets/documents/example-code-of-conduct.docx" title="Download an example 'Code of Conduct' document" class="button button--no-margin">Download this example (.DOCX)</a>
+> <a href="/documents/example-code-of-conduct.docx" title="Download an example 'Code of Conduct' document" class="button button--no-margin">Download this example (.DOCX)</a>

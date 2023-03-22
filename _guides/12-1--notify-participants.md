@@ -39,7 +39,7 @@ You can use all of these fields to construct your personalised emails. Examples 
 > 
 > This document contains a template you could use to send to **mentors**, notifying them of their mentees. Placeholders for template information are highlighted throughout the document; you'll need to amend these to suit your specific software.
 > 
-> <a href="/assets/documents/example-mentor-notification-email.docx" title="Download an example mentor notification" class="button button--no-margin">Download this example (.DOCX)</a>
+> <a href="/documents/example-mentor-notification-email.docx" title="Download an example mentor notification" class="button button--no-margin">Download this example (.DOCX)</a>
 
 {:.template}
 > ## Example
@@ -47,5 +47,5 @@ You can use all of these fields to construct your personalised emails. Examples 
 > 
 > This document contains a template you could use to send to **mentees**, notifying them of their mentors. Placeholders for template information are highlighted throughout the document; you'll need to amend these to suit your specific software.
 > 
-> <a href="/assets/documents/example-mentee-notification-email.docx" title="Download an example mentee notification" class="button button--no-margin">Download this example (.DOCX)</a>
+> <a href="/documents/example-mentee-notification-email.docx" title="Download an example mentee notification" class="button button--no-margin">Download this example (.DOCX)</a>
 

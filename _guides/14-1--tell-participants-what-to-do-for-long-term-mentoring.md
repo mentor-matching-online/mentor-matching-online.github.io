@@ -20,7 +20,7 @@ Examples of the emails you could send are provided below.
 > 
 > This document contains a template you could use to send to **mentors**, telling them what to expect after speed mentoring has concluded.
 > 
-> <a href="/assets/documents/example-mentee-long-term-mentoring-email.docx" title="Download an example mentee long-term mentoring email" class="button button--no-margin">Download this example (.DOCX)</a>
+> <a href="/documents/example-mentee-long-term-mentoring-email.docx" title="Download an example mentee long-term mentoring email" class="button button--no-margin">Download this example (.DOCX)</a>
 
 {:.template}
 > ## Example
@@ -28,7 +28,7 @@ Examples of the emails you could send are provided below.
 > 
 > This document contains a template you could use to send to **mentees**, telling them to select a long-term mentor.
 > 
-> <a href="/assets/documents/example-mentor-long-term-mentoring-email.docx" title="Download an example mentee long-term mentoring email" class="button button--no-margin">Download this example (.DOCX)</a>
+> <a href="/documents/example-mentor-long-term-mentoring-email.docx" title="Download an example mentee long-term mentoring email" class="button button--no-margin">Download this example (.DOCX)</a>
 
 > ## Case study
 > ### Civil Service LGBT+ mentoring programme

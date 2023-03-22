@@ -24,7 +24,7 @@ The example files below contain the correct format and headings for the data; yo
 > 
 > These files demonstrate the required format for data you input to our mentor matching software. The files must be named `mentors.csv` and `mentees.csv` respectively.
 > 
-> <a href="/assets/documents/example-output-data.zip" title="Download an example data files" class="button button--no-margin">Download the example files (.ZIP containing .CSV files)</a>
+> <a href="/documents/example-output-data.zip" title="Download an example data files" class="button button--no-margin">Download the example files (.ZIP containing .CSV files)</a>
 
 This example file includes a set of dummy source data and, on separate tabs, the data in the required output format. This example is provided to demonstrate how formulae can be used to transform raw registration data into the correct format.
 
@@ -34,7 +34,7 @@ This example file includes a set of dummy source data and, on separate tabs, the
 > 
 > These files demonstrate how formulae can be used to transform raw registration data into the correct format.
 > 
-> <a href="/assets/documents/example-dummy-data-and-outputs.xlsx" title="Download the spreadsheet with dummy data and working formulae" class="button button--no-margin">Download this example (.XLSX)</a>
+> <a href="/documents/example-dummy-data-and-outputs.xlsx" title="Download the spreadsheet with dummy data and working formulae" class="button button--no-margin">Download this example (.XLSX)</a>
 
 ### Required fields
 

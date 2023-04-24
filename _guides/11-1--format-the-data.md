@@ -34,7 +34,7 @@ This example file includes a set of dummy source data and, on separate tabs, the
 > 
 > These files demonstrate how formulae can be used to transform raw registration data into the correct format.
 > 
-> <a href="/documents/example-dummy-data-and-outputs.xlsx" title="Download the spreadsheet with dummy data and working formulae" class="button button--no-margin">Download this example (.XLSX)</a>
+> <a href="/documents/dummy-data-and-outputs.xlsx" title="Download the spreadsheet with dummy data and working formulae" class="button button--no-margin">Download this example (.XLSX)</a>
 
 ### Required fields
 

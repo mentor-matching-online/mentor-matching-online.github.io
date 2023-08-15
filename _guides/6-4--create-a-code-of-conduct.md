@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create a code of conduct"
 excerpt: "How will you ensure everyone acts professionally?"
 step: 6.3

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Facilitate long-term mentoring"
 excerpt: "Guide your participants through the final part of the mentoring process."
 step: 14

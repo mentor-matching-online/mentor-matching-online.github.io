@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Evaluate the programme"
 excerpt: "Wrap up the programme with a final evaluation."
 step: 15

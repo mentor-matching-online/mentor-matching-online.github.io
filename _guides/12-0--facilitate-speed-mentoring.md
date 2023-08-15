@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Facilitate speed mentoring"
 excerpt: "Guide your participants through the first part of the mentoring process."
 step: 12

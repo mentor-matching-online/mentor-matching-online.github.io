@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Induct mentors and mentees"
 excerpt: "Prepare your participants for the programme."
 step: 8

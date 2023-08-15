@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Decide who is eligible"
 excerpt: "Who do you want to be able to take part?"
 step: 2.3

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Remind participants of their next steps"
 excerpt: "Will you nudge people to select and meet their long-term mentor?"
 step: 14.2

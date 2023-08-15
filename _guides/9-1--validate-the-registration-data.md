@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Validate the registration data"
 excerpt: "Give people a chance to check their information."
 step: 9.1

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Monitor and clean the data"
 excerpt: "How will you ensure your data is accurate?"
 step: 7.3

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Tell participants what to do for speed mentoring"
 excerpt: "What will you ask mentees and mentors to do as part of speed mentoring?"
 step: 12.2

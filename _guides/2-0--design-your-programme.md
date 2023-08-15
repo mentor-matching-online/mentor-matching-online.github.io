@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Design your programme"
 excerpt: "What do you want your mentoring programme to look and feel like?"
 step: 2

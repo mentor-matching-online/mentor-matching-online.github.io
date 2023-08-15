@@ -11,7 +11,7 @@ title: "Mentor Matching Online"
 # This description is predominantly for Search Engine Optimisation
 description: "Mentoring, made easy. Use these guides, resources and tools to deliver a large scale, mentoring programme."
 # Instead of "author", have the organisation name as the default
-author: "John Peart and Jonathan Kerr"
+author: "John Peart, Jonathan Kerr"
 organisation: "Mentor Matching Online"
 email: "info@mentormatching.online"
 
@@ -91,7 +91,14 @@ collections:
     permalink: /guide/:title/
     defaults:
       values:
-        layout: post
+        layout: guide
+  software:    
+    sort_by: order
+    output: true
+    permalink: /software/:title/
+    defaults:
+      values:
+        layout: software
   people:    
     output: false
                 

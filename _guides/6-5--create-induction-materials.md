@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create induction materials"
 excerpt: "How will you induct participants onto your programme?"
 step: 6.5

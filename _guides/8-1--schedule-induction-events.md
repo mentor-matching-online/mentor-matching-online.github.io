@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Schedule induction events"
 excerpt: "Plan when your induction events will take place."
 step: 8.1

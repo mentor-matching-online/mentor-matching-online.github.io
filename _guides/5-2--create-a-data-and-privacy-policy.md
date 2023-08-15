@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create a data and privacy policy"
 excerpt: "What processes and policies will govern your use of participant data?"
 step: 5.2

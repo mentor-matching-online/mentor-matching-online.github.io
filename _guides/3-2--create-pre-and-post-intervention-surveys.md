@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create pre- and post- intervention surveys"
 excerpt: "What should you ask your participants to get their feedback and know if your programme is working?"
 step: 3.2

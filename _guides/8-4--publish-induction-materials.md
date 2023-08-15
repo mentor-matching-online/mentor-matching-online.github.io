@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Publish induction materials"
 excerpt: "description"
 step: 8.4

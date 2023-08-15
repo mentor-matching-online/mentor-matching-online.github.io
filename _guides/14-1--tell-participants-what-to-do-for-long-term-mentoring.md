@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Tell participants what to do for long-term mentoring"
 excerpt: "What will you ask mentees and mentors to do as part of long-term mentoring?"
 step: 14.1

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create your programme guidance"
 excerpt: "How will you guide participants through the programme, from registration through to completion?"
 step: 6

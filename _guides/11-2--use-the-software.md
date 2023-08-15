@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Use the mentor matching software"
 excerpt: "Install and run the mentor matching software."
 step: 11.2

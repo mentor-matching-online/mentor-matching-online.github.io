@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Select your tools"
 excerpt: "What software do you have available, and which will you use?"
 step: 4

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Build the registration forms"
 excerpt: "How will you collect information from your participants?"
 step: 5.1

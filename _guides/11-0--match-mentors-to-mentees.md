@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Match mentors and mentees"
 excerpt: "Use our software package to match participants together."
 step: 11

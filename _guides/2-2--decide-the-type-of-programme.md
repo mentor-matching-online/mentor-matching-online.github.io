@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Decide on the type of programme"
 excerpt: "What kind of relationship and interactions do you want mentors and mentees to have with each other?"
 step: 2.2

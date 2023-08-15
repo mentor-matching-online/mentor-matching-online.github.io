@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create general guidance for participants"
 excerpt: "What guidance do all of your participants need?"
 step: 6.1

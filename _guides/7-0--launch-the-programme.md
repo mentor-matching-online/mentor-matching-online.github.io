@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Launch the programme"
 excerpt: "Get the word out about your programme and encourage people to sign up."
 step: 7

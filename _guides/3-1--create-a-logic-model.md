@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create a logic model"
 excerpt: "Do your inputs and activities help you to achieve the outcomes you are looking for?"
 step: 3.1

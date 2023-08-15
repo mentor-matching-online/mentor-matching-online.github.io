@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Update guidance documents"
 excerpt: "Check that your guidance makes sense to your participants."
 step: 8.3

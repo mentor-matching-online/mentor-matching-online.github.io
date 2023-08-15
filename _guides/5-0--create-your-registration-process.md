@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create your registration process"
 excerpt: "How will you collect and process participant data?"
 step: 5

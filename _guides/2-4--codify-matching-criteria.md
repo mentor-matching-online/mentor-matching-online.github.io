@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Codify your matching criteria"
 excerpt: "What rules will you apply to matching mentors and mentees?"
 step: 2.4

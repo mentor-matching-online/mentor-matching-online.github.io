@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Remind participants of their matches"
 excerpt: "Will you nudge people to complete their speed mentoring?"
 step: 12.3

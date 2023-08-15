@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create specific guidance for mentors"
 excerpt: "What guidance do mentors need?"
 step: 6.3

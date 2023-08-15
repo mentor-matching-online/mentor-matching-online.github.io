@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Create specific guidance for mentees"
 excerpt: "What guidance do your mentees need?"
 step: 6.2

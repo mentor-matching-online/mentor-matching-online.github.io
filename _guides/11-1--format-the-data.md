@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Format the data"
 excerpt: "Ensure your data is in the required format for our software."
 step: 11.1

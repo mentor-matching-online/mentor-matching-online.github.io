@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Set a baseline for evaluation"
 excerpt: "Gather information from participants to act as a baseline when evaluating the programme later."
 step: 10

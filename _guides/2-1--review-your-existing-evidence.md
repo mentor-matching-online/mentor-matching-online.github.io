@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Review your existing evidence"
 excerpt: "What evidence do you have that you need a mentoring programme, and what problems are you trying to fix with it?"
 step: 2.1

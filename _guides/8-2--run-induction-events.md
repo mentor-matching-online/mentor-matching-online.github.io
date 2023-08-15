@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Run induction events"
 excerpt: "Ensure your participants understand what they need to do and how to do it."
 step: 8.2

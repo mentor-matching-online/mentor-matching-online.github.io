@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Notify participants of their matches"
 excerpt: "What will you tell mentees and mentors about their matches and what to do next?"
 step: 12.1

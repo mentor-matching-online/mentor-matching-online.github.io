@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Evaluate the programme"
 excerpt: "Gather feedback after the initial speed mentoring period."
 step: 13

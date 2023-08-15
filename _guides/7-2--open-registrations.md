@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Open registrations"
 excerpt: "When will you open registrations, and for how long?"
 step: 7.2

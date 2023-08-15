@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Before you begin"
 excerpt: "Things you need to know and should consider before you start to create your mentoring programme."
 step: 1

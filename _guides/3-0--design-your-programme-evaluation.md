@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Design your programme evaluation"
 excerpt: "How will you know your programme is working?"
 step: 3

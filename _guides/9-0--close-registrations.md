@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Close registrations"
 excerpt: "Prevent additional sign ups so you can commence matching."
 step: 9

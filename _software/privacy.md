@@ -1,5 +1,5 @@
 ---
-layout: software
+layout: docs
 title: Privacy
 excerpt: "This page explains the privacy and data policy for this service"
 category: Policy

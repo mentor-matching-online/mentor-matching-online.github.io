@@ -98,7 +98,7 @@ collections:
     permalink: /software/:title/
     defaults:
       values:
-        layout: software
+        layout: docs
   people:    
     output: false
                 

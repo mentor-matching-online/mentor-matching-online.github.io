@@ -1,5 +1,5 @@
 ---
-layout: software
+layout: docs
 title: Cookies
 excerpt: "This page explains the use of cookies on this software"
 category: Policy

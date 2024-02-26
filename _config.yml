@@ -78,6 +78,9 @@ theme-colour: "#373151"
 # Google settings
 google-site-verification: ""
 
+# Cloudflare
+cloudflare: "8c0b24f445584c03b29f4d100206c2cd"
+
 ###############
 # Collections #
 ###############

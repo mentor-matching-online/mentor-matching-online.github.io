@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Publish induction materials"
-excerpt: "description"
+excerpt: "Provide copies of your induction materials to participants, so they can refer to them later."
 step: 8.4
 order: 28
 ---
